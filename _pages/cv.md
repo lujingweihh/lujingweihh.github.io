@@ -15,5 +15,5 @@ Work experience
 
 Education
 ======
-* Ph.D., Computer Application Technology, [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), 2022
-* M.S., Control Science and Engineering, [Beihang University (BUAA)](https://ev.buaa.edu.cn/), 2017
+* Ph.D., Computer Application Technology, [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), Supervisors, Prof. Fei-Yue Wang, Prof. Qinglai Wei, 2022
+* M.S., Control Science and Engineering, [Beihang University (BUAA)](https://ev.buaa.edu.cn/), Supervisors, Zhen Zhang, Prof. Kemin Zhou, 2017
