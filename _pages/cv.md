@@ -11,9 +11,9 @@ redirect_from:
 
 Work experience
 ======
-* 2017--2019 Beljing Aeronautical Manufacturing Technology Research Institute
+* Engineer at Beljing Aeronautical Manufacturing Technology Research Institute, 2017--2019 
 
 Education
 ======
 * Ph.D., Computer Application Technology, [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), 2022
-* M.S., Control Science and Engineering, [Beihang University (Beijing University of Aeronautics and Astronautics, BUAA)](https://ev.buaa.edu.cn/), 2017
+* M.S., Control Science and Engineering, [Beihang University (formerly known as Beijing University of Aeronautics and Astronautics, BUAA)](https://ev.buaa.edu.cn/), 2017
