@@ -21,4 +21,4 @@ I serve as a reviewer for vaious international journals, including
 I serve as an Associate Editor of the [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857).
 I was a Guest Editor of the [IEEE Journal of Radio Frequency Identification](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433271).
 
-Please feel free to contact me: lujingweihh@gmail.com for academic services requests.
+Please feel free to contact me at: lujingweihh@gmail.com for academic services requests.
