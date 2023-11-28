@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jingwei Lu 卢经纬"
   avatar           : "lujingwei.png"
-  bio              : "Ph. D. in Computer Application Technology. Email: lujingweihh@gmail.com"
+  bio              : "Ph. D. in Computer Application Technology"
   location         : "Beijing, China"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : lujingweihh@gmail.com
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
