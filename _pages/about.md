@@ -16,7 +16,7 @@ My research interests include optimal control, adaptive dynamic programming (ADP
 Currently, I'm highly interested pre-trained models-powered artificial intelligence generated content (AIGC) for optimal control, DRL, and their applications in autonomous driving and motor control.
 
 I'm actively engaged in academic research. I have been serving as a reviewer for various intenational journals and conferences.
-Notably, I have been serving as an Associate Editor of the IEEE Transactions on Intelligent Vehicles. I was an Guest Editor of the IEEE Journal of Radio Frequency Identification.
+Notably, I serve as an Associate Editor of the [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857). I was an Guest Editor of the [IEEE Journal of Radio Frequency Identification](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433271).
 
 Now, I am actively seeking opportunities for visiting scholar, particularly in areas related to nonlinear optimal control, DRL, and pre-trained models.
 
