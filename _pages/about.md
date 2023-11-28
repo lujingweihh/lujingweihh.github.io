@@ -16,11 +16,15 @@ My research interests include optimal control, adaptive dynamic programming (ADP
 Currently, I'm highly interested pre-trained models-powered artificial intelligence generated content (AIGC) for optimal control, DRL, and their applications in autonomous driving and motor control.
 
 I'm actively engaged in academic research. I have been serving as a reviewer for various intenational journals and conferences.
-Notably, I have been serving as an Associate Editor of the  IEEE Transactions on Intelligent Vehicles. I was an Guest Editor of the IEEE Journal of Radio Frequency Identification.
+Notably, I have been serving as an Associate Editor of the IEEE Transactions on Intelligent Vehicles. I was an Guest Editor of the IEEE Journal of Radio Frequency Identification.
+
+Now, I am actively seeking opportunities for visiting scholar, particularly in areas related to nonlinear optimal control, DRL, and pre-trained models.
 
 Updates
 ======
-- 06/2023: Our paper "[Continuous-Time Stochastic Policy Iteration of Adaptive Dynamic Programming](https://ieeexplore.ieee.org/abstract/document/10168821)" has been accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems
+- 06/2023: Our paper "[Continuous-Time Stochastic Policy Iteration of Adaptive Dynamic Programming](https://ieeexplore.ieee.org/abstract/document/10168821)" has been accepted by the IEEE Transactions on Systems, Man, and Cybernetics: Systems.
+- 06/2023: Our paper "[Event-Triggered Deep Reinforcement Learning Using Parallel Control: A Case Study in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/10081497)" has been accepted by the IEEE Transactions on Intelligent Vehicles.
+- 04/2023: Our paper "[The ChatGPT after: Opportunities and challenges of very large scale pre-trained models](http://www.aas.net.cn/article/zdhxb/2023/4/705)" has been accepted by the Acta Automatica Sinica.
 
 
 
