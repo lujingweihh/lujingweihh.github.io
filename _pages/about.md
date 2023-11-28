@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 My name is Jingwei Lu (卢经纬). I received the Ph. D. degree in Computer Application Technology from the University of Chinese Academy of Sciences, Beijing, China.
-My research interests include optimal control, adaptive dynamic programming, deep reinforcement learning, and autonomous driving.
+My research interests include optimal control, adaptive dynamic programming (ADP), deep reinforcement learning (DRL), and autonomous driving.
 
 Getting started
 ======
