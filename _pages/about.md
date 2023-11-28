@@ -20,7 +20,7 @@ Notably, I serve as an Associate Editor of the [IEEE Transactions on Intelligent
 
 `Now, I am actively seeking opportunities for visiting scholar, particularly in Labs related to nonlinear optimal control, DRL, and pre-trained models.`
 
-`Please feel free to contact me: lujingweihh@gmail.com`
+`Please feel free to contact me at: lujingweihh@gmail.com`
 
 Updates
 ======
