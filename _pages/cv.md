@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* Engineer at Beljing Aeronautical Manufacturing Technology Research Institute, 2017--2019 
+* Engineer at Beijing Aeronautical Manufacturing Technology Research Institute, 2017--2019 
 
 Education
 ======
