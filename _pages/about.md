@@ -18,7 +18,7 @@ Currently, I'm highly interested pre-trained models-powered artificial intellige
 I'm actively engaged in academic research. I have been serving as a reviewer for various intenational journals and conferences.
 Notably, I serve as an Associate Editor of the [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857). I was a Guest Editor of the [IEEE Journal of Radio Frequency Identification](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433271).
 
-Now, I am actively seeking opportunities for visiting scholar, particularly in areas related to nonlinear optimal control, DRL, and pre-trained models.
+<table><tr><td bgcolor=orange>Now, I am actively seeking opportunities for visiting scholar, particularly in areas related to nonlinear optimal control, DRL, and pre-trained models.</td></tr></table>
 
 `Please feel free to contact me: lujingweihh@gmail.com`
 
