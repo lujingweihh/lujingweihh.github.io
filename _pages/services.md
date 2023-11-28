@@ -1,3 +1,14 @@
+---
+layout: archive
+title: ""
+permalink: /services/
+author_profile: true
+redirect_from:
+
+---
+
+{% include base_path %}
+
 Academic Services
 ======
 I serve as a reviewer for vaious international journals, including
