@@ -19,3 +19,18 @@ Journal Papers
 8. X. Wang, X. Cheng, **J. Lu**, O. Kwan, S. Li, Z. Ping. [Metaverses-based parallel oil fields in CPSS: A framework and methodology](https://ieeexplore.ieee.org/abstract/document/9997139). IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2023. (**Corresponding author**)
 9. Q. Wei, T. Zhou, **J. Lu, **Y. Liu, S. Su, J. Xiao. [Continuous-time stochastic policy iteration adaptive dynamic programming](https://ieeexplore.ieee.org/abstract/document/10168821). IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2023.
 10. Q. Wei, L. Wang, **J. Lu**, F.-Y. Wang. [Discrete-time self-learning parallel control](https://ieeexplore.ieee.org/abstract/document/9112237). IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022.
+11. Q. Wei, Y. Liu, **J. Lu**, J. Ling, Z. Luan, M. Chen. [A new integral critic learning for optimal tracking control with applications to boiler-turbine systems](https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.2792). Optimal Control Applications and Methods. 2021.
+12. X. Wang, X. Cheng, **J. Lu**, S. Liu, Z. Zhang, Z. Liu, F.-Y. Wang. [Fault diagnosis for sucker rod pumping systems: A parallel system approach](https://ieeexplore.ieee.org/abstract/document/9912373). IEEE Journal of Radio Frequency Identification. 2022.
+13. J. Yang, S. Li, X. Wang, **J. Lu**, H. Wu, X. Wang. [DeFACT in ManuVerse for parallel manufacturing: Foundation models and parallel workers in smart factories](https://ieeexplore.ieee.org/abstract/document/10004441). IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2023.
+14. X. Cheng*, X. Wang, S. Liu, **J. Lu**, Z. Zhang, Z. Liu, F.-Y. Wang. [Optimization of sucker rod pump operations using parallel systems](https://ieeexplore.ieee.org/abstract/document/9940198). IEEE Journal of Radio Frequency Identification. 2022.
+15. L. Jin, J. Li, Z. Sun, **J. Lu**, and F.-Y. Wang. [Neural dynamics for computing perturbed nonlinear equations applied to ACP-based lower limb motion intention recognition](https://ieeexplore.ieee.org/abstract/document/9557756). IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022.
+16. W. Zhong, M. Wang, Q. Wei, **J. Lu**. [A new neuro-optimal nonlinear tracking control method via integral reinforcement learning with applications to nuclear systems](https://www.sciencedirect.com/science/article/abs/pii/S0925231222000558). Neurocomputing. 2022.
+
+Conference Papers
+======
+1.**J. Lu**, Q. Wei, T. Zhou, L. Han, F.-Y. Wang. [Backstepping-based parallel control for cascaded nonlinear systems](https://ieeexplore.ieee.org/abstract/document/9540126). in 2021 IEEE International Conference on Digital Twins and Parallel Intelligence. 2021.
+2. **J. Lu**, T. Bai, Q. Wei, T. Zhou, F.-Y. Wang. [Parallel control-based event-triggered optimal control for constrained discrete-time nonlinear systems](https://ieeexplore.ieee.org/abstract/document/9728210). in 2021 Chinese Automation Congress. 2021.
+3. **J. Lu**, Z. Zhang, K. Zhou, J. Mao, Y. Ma. [Modeling and single neuron adaptive PID control of piezoelectric cantilever beam](https://ieeexplore.ieee.org/abstract/document/7553210). in Proceedings of the 35th Chinese Control Conference. 2016.
+4. Z. Zhang, J. Lu, K. Zhou, H. Sun, W. Pang. [Dynamic hysteresis modeling and control of piezoelectric actuator based on H∞ robust disturbance observer](https://ieeexplore.ieee.org/abstract/document/7553200). in Proceedings of the 35th Chinese Control Conference. 2016.
+
+
