@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jingwei Lu's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jingwei Lu"
 description              : &description "personal description"
 url                      : https://lujingweihh.github.io/ 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
