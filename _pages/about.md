@@ -29,7 +29,7 @@ Updates
 ======
 - 06/2023: Our paper "[Continuous-time stochastic policy iteration adaptive dynamic programming](https://ieeexplore.ieee.org/abstract/document/10168821)" has been accepted by the IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 - 04/2023: Our paper "[Event-triggered deep reinforcement learning using parallel Control: A case study in autonomous driving](https://ieeexplore.ieee.org/abstract/document/10081497)" has been accepted by the IEEE Transactions on Intelligent Vehicles.
-- 04/2023: Our paper "[The ChatGPT after: Opportunities and challenges of very large scale pre-trained models](http://www.aas.net.cn/article/zdhxb/2023/4/705)" has been accepted by the Acta Automatica Sinica.
+- 04/2023: Our paper "[问答ChatGPT 之后: 超大预训练模型的机遇和挑战](http://www.aas.net.cn/article/zdhxb/2023/4/705)" has been accepted by the Acta Automatica Sinica.
 
 
 
