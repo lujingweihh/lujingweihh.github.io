@@ -31,7 +31,7 @@ Conference papers
 1. **J. Lu**, Q. Wei, T. Zhou, L. Han, F.-Y. Wang. [Backstepping-based parallel control for cascaded nonlinear systems](https://ieeexplore.ieee.org/abstract/document/9540126). in 2021 IEEE International Conference on Digital Twins and Parallel Intelligence. 2021.
 2. **J. Lu**, T. Bai, Q. Wei, T. Zhou, F.-Y. Wang. [Parallel control-based event-triggered optimal control for constrained discrete-time nonlinear systems](https://ieeexplore.ieee.org/abstract/document/9728210). in 2021 Chinese Automation Congress. 2021.
 3. **J. Lu**, Z. Zhang, K. Zhou, J. Mao, Y. Ma. [Modeling and single neuron adaptive PID control of piezoelectric cantilever beam](https://ieeexplore.ieee.org/abstract/document/7553210). in Proceedings of the 35th Chinese Control Conference. 2016.
-4. Z. Zhang, **J. Lu**, K. Zhou, H. Sun, W. Pang. [Dynamic hysteresis modeling and control of piezoelectric actuator based on $H_{infty}$ robust disturbance observer](https://ieeexplore.ieee.org/abstract/document/7553200). in Proceedings of the 35th Chinese Control Conference. 2016.
+4. Z. Zhang, **J. Lu**, K. Zhou, H. Sun, W. Pang. [Dynamic hysteresis modeling and control of piezoelectric actuator based on $H_{\infty}$ robust disturbance observer](https://ieeexplore.ieee.org/abstract/document/7553200). in Proceedings of the 35th Chinese Control Conference. 2016.
 
 Chinese journal papers
 =====
