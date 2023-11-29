@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Journal Papers
+Journal papers
 ======
 1. **J. Lu**, Q. Wei, T. Zhou, Z. Wang, F.-Y. Wang. [Event-triggered near-optimal control for unknown discrete-time nonlinear systems using parallel control](https://ieeexplore.ieee.org/abstract/document/9770467). IEEE Transactions on Cybernetics. 2023.
 2. **J. Lu**, L. Han, Q. Wei, X. Wang, X. Dai, F.-Y. Wang. [Event-triggered deep reinforcement learning using parallel control: A case study in autonomous driving](https://ieeexplore.ieee.org/document/10081497). IEEE Transactions on Intelligent Vehicles. 2023.
@@ -26,11 +26,27 @@ Journal Papers
 15. L. Jin, J. Li, Z. Sun, **J. Lu**, and F.-Y. Wang. [Neural dynamics for computing perturbed nonlinear equations applied to ACP-based lower limb motion intention recognition](https://ieeexplore.ieee.org/abstract/document/9557756). IEEE Transactions on Systems, Man, and Cybernetics: Systems. 2022.
 16. W. Zhong, M. Wang, Q. Wei, **J. Lu**. [A new neuro-optimal nonlinear tracking control method via integral reinforcement learning with applications to nuclear systems](https://www.sciencedirect.com/science/article/abs/pii/S0925231222000558). Neurocomputing. 2022.
 
-Conference Papers
+Conference papers
 ======
 1. **J. Lu**, Q. Wei, T. Zhou, L. Han, F.-Y. Wang. [Backstepping-based parallel control for cascaded nonlinear systems](https://ieeexplore.ieee.org/abstract/document/9540126). in 2021 IEEE International Conference on Digital Twins and Parallel Intelligence. 2021.
 2. **J. Lu**, T. Bai, Q. Wei, T. Zhou, F.-Y. Wang. [Parallel control-based event-triggered optimal control for constrained discrete-time nonlinear systems](https://ieeexplore.ieee.org/abstract/document/9728210). in 2021 Chinese Automation Congress. 2021.
 3. **J. Lu**, Z. Zhang, K. Zhou, J. Mao, Y. Ma. [Modeling and single neuron adaptive PID control of piezoelectric cantilever beam](https://ieeexplore.ieee.org/abstract/document/7553210). in Proceedings of the 35th Chinese Control Conference. 2016.
-4. Z. Zhang, J. Lu, K. Zhou, H. Sun, W. Pang. [Dynamic hysteresis modeling and control of piezoelectric actuator based on H∞ robust disturbance observer](https://ieeexplore.ieee.org/abstract/document/7553200). in Proceedings of the 35th Chinese Control Conference. 2016.
+4. Z. Zhang, **J. Lu**, K. Zhou, H. Sun, W. Pang. [Dynamic hysteresis modeling and control of piezoelectric actuator based on $H_infty$ robust disturbance observer](https://ieeexplore.ieee.org/abstract/document/7553200). in Proceedings of the 35th Chinese Control Conference. 2016.
+
+Chinese journal papers
+=====
+1. **卢经纬**, 郭超, 戴星原, 缪青海, 王兴霞, 杨静, 王飞跃. [问答ChatGPT 之后: 超大预训练模型的机遇和挑战](http://www.aas.net.cn/article/zdhxb/2023/4/705). 自动化学报. 2023.
+2. **卢经纬**, 程相, 王飞跃. [求解微分方程的人工智能与深度学习方法: 现状及展望](https://www.infocomm-journal.com/znkx/EN/10.11959/j.issn.2096-6652.202255). 智能科学与技术学报. 2022.
+3. **卢经纬**, 张臻, 梁宇坤, [张文广. 具有尾缘襟翼风力机的恒功率反步法控制](http://jcta.alljournals.ac.cn/cta_cn/ch/reader/view_abstract.aspx?file_no=CCTA160254&flag=1). 控制理论与应用. 2017.
+4. 阳东升, **卢经纬**, 李强, 王飞跃. [超大预训练模型在指挥控制领域的应用与挑战](https://jc2.org.cn/CN/article/searchArticle.do#). 指挥与控制学报. (**通讯作者**)
+5. 张臻, **卢经纬**, 梁宇坤. [具有尾缘襟翼的风力机动力学建模与恒功率控制](http://html.rhhz.net/BJHKHTDXXBZRB/20170307.htm). 北京航空航天大学报. 2016.
+6. 魏芳, 铁铎, **卢经纬**, 高诚. [数控机床负载自适应加工控制系统设计](https://kns.cnki.net/kcms2/article/abstract?v=Eo9-C_M6tLkw6xXMy-diVIMzXqqXjVSczEH2VMPlTaUnuBy7MuZUNp1-KBEkprFisrhPFFUgjL5_nEsJzwAr4DYrdxwMWGBrAKnnZzBHxNXwSWKt7GX0qCoTKK1hCjeR4cPqphtc8ksixo53Y2-q9w==&uniplatform=NZKPT&language=CHS). 航空精密制造技术. 2020.
+7. 金龙, 李嘉昌, 常振强, **卢经纬**, 程龙. [基于ACP 理论的微型扑翼飞行器的姿态控制](http://www.aas.net.cn/article/doi/10.16383/j.aas.c210646). 自动化学报. 2021.
+8. 廖泽华, 梁子钰, 周天民, **卢经纬**, 魏庆来. [基于平行控制的离散非线性系统的事件触发近似最优控制](https://www.infocomm-journal.com/znkx/CN/10.11959/j.issn.2096-6652.202142). 智能科学与技术学报. 2021.
+
+
+
+
+
 
 
