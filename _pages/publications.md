@@ -38,7 +38,7 @@ Chinese journal papers
 1. **卢经纬**, 郭超, 戴星原, 缪青海, 王兴霞, 杨静, 王飞跃. [问答ChatGPT 之后: 超大预训练模型的机遇和挑战](http://www.aas.net.cn/article/zdhxb/2023/4/705). 自动化学报. 2023.
 2. **卢经纬**, 程相, 王飞跃. [求解微分方程的人工智能与深度学习方法: 现状及展望](https://www.infocomm-journal.com/znkx/EN/10.11959/j.issn.2096-6652.202255). 智能科学与技术学报. 2022.
 3. **卢经纬**, 张臻, 梁宇坤, [张文广. 具有尾缘襟翼风力机的恒功率反步法控制](http://jcta.alljournals.ac.cn/cta_cn/ch/reader/view_abstract.aspx?file_no=CCTA160254&flag=1). 控制理论与应用. 2017.
-4. 阳东升, **卢经纬**, 李强, 王飞跃. [超大预训练模型在指挥控制领域的应用与挑战](https://jc2.org.cn/CN/article/searchArticle.do#). 指挥与控制学报. (**通讯作者**)
+4. 阳东升, **卢经纬**, 李强, 王飞跃. [超大预训练模型在指挥控制领域的应用与挑战](https://jc2.org.cn/CN/article/searchArticle.do#). 指挥与控制学报. 2023. (**通讯作者**)
 5. 张臻, **卢经纬**, 梁宇坤. [具有尾缘襟翼的风力机动力学建模与恒功率控制](http://html.rhhz.net/BJHKHTDXXBZRB/20170307.htm). 北京航空航天大学报. 2016.
 6. 魏芳, 铁铎, **卢经纬**, 高诚. [数控机床负载自适应加工控制系统设计](https://kns.cnki.net/kcms2/article/abstract?v=Eo9-C_M6tLkw6xXMy-diVIMzXqqXjVSczEH2VMPlTaUnuBy7MuZUNp1-KBEkprFisrhPFFUgjL5_nEsJzwAr4DYrdxwMWGBrAKnnZzBHxNXwSWKt7GX0qCoTKK1hCjeR4cPqphtc8ksixo53Y2-q9w==&uniplatform=NZKPT&language=CHS). 航空精密制造技术. 2020.
 7. 金龙, 李嘉昌, 常振强, **卢经纬**, 程龙. [基于ACP 理论的微型扑翼飞行器的姿态控制](http://www.aas.net.cn/article/doi/10.16383/j.aas.c210646). 自动化学报. 2021.
