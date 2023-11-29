@@ -18,7 +18,7 @@ Currently, I'm highly interested pre-trained models-powered artificial intellige
 I'm actively engaged in academic research. I have been serving as a reviewer for various intenational journals and conferences.
 Notably, I serve as an Associate Editor of the [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857). I was a Guest Editor of the [IEEE Journal of Radio Frequency Identification](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433271).
 
-At present, I am dedicated to open-sourcing nonlinear optimal control algorithms, especially ADP and reinforcement learning (ADPRL) for nonlinear optimal control, and further establishing a tool library of nonlinear optimal control. Please refer to my Repo: [ADPRL for nonlinear optimal control](https://github.com/lujingweihh/Adaptive-dynamic-programming-algorithms).
+At present, I am dedicated to open-sourcing nonlinear optimal control algorithms, especially ADP and reinforcement learning (ADPRL), and further establishing a tool library of nonlinear optimal control. Please refer to my Repo: [ADPRL for nonlinear optimal control](https://github.com/lujingweihh/Adaptive-dynamic-programming-algorithms).
 You are also welcome to contact me if you are interested in this work.
 
 `Besides, I am actively seeking opportunities for visiting scholar, particularly in Labs related to nonlinear optimal control, DRL, and pre-trained models.`
