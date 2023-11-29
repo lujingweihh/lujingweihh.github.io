@@ -13,7 +13,7 @@ About me
 My name is Jingwei Lu (卢经纬). I received the Ph. D. degree in Computer Application Technology from the [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), Beijing, China.
 My research interests include optimal control, adaptive dynamic programming (ADP), deep reinforcement learning (DRL), and autonomous driving.
 
-Currently, I'm highly interested pre-trained models-powered artificial intelligence generated content (AIGC) for optimal control and DRL, and their applications in autonomous driving and industrial systems.
+Currently, I'm highly interested in pre-trained models-powered artificial intelligence generated content (AIGC) for optimal control and DRL, and their applications in autonomous driving and industrial systems.
 
 I'm actively engaged in academic research. I have been serving as a reviewer for various intenational journals and conferences.
 Notably, I serve as an Associate Editor of the [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857). I was a Guest Editor of the [IEEE Journal of Radio Frequency Identification](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433271).
