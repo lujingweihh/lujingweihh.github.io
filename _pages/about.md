@@ -23,7 +23,7 @@ You are welcome to contact me if you are interested in this work.
 
 `Now I am actively seeking opportunities for visiting scholar, particularly in Labs related to nonlinear optimal control, DRL, and pre-trained models.`
 
-`Please feel free to contact me at: lujingweihh@gmail.com`
+`Please feel free to contact me at: lujingweihh@gmail.com/jingwei_lu@ieee.org`
 
 Updates
 ======
