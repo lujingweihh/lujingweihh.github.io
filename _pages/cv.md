@@ -17,8 +17,8 @@ Work experience
 
 Education
 ======
-* Ph.D., Computer Application Technology, [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), Supervisors: [Prof. Fei-Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=_p0NBv0AAAAJ&view_op=list_works&sortby=pubdate) and [Prof. Qinglai Wei](https://scholar.google.com/citations?hl=zh-CN&user=YmPMH7oAAAAJ), 2022
-* M.S., Control Science and Engineering, [Beihang University](https://ev.buaa.edu.cn/), Supervisors: Zhen Zhang and [Prof. Kemin Zhou](https://scholar.google.com/citations?hl=zh-CN&user=AatvTeoAAAAJ), 2017
+* Ph.D., Computer Application Technology, [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), Advisors: [Prof. Fei-Yue Wang](https://scholar.google.com/citations?hl=zh-CN&user=_p0NBv0AAAAJ&view_op=list_works&sortby=pubdate) and [Prof. Qinglai Wei](https://scholar.google.com/citations?hl=zh-CN&user=YmPMH7oAAAAJ), 2022
+* M.S., Control Science and Engineering, [Beihang University](https://ev.buaa.edu.cn/), Advisors: Zhen Zhang and [Prof. Kemin Zhou](https://scholar.google.com/citations?hl=zh-CN&user=AatvTeoAAAAJ), 2017
 * B.S., Automation, [University of Science and Technology Liaoning](https://www.ustl.edu.cn/), 2014
 
 
