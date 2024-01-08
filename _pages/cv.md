@@ -12,8 +12,8 @@ redirect_from:
 
 Work experience
 ======
-* Research assistant (Postdoctoral fellow) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2023 -- Present
-* Engineer at Beijing Aeronautical Manufacturing Technology Research Institute, 2017 -- 2019 
+* Postdoctoral fellow at [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2023 -- Present
+* Engineer at AVIC Manufacturing Technology Institute, 2017 -- 2019 
 
 
 Education
