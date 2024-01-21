@@ -10,7 +10,7 @@ author_profile: true
 
 Academic Services
 =====
-I served as a reviewer for vaious international journals, including
+I served as a reviewer for various international journals, including
 - [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036)  
 - [IEEE Transactions on Industrial Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41)  
 - [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)  
