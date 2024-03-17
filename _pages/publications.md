@@ -11,7 +11,7 @@ Journal papers
 ======
 (* Corresponding author)
 1. **J. Lu**, L. Li, F.-Y. Wang\*. [Event-triggered parallel control using deep reinforcement learning with application to comfortable autonomous driving](https://ieeexplore.ieee.org/document/10458397). *IEEE Transactions on Intelligent Vehicles*. 2024.
-2.  **J. Lu\***, L. Li, F.-Y. Wang. [Nearly optimal stabilization of unknown continuous-time nonlinear systems: A new parallel control approach](https://www.sciencedirect.com/science/article/abs/pii/S0925231224001929). *Neurocomputing*. 2024.
+2.  **J. Lu\***, X. Wang, Q. Wei, F.-Y. Wang. [Nearly optimal stabilization of unknown continuous-time nonlinear systems: A new parallel control approach](https://www.sciencedirect.com/science/article/abs/pii/S0925231224001929). *Neurocomputing*. 2024.
 3. **J. Lu**, Q. Wei, T. Zhou, Z. Wang, F.-Y. Wang\*. [Event-triggered near-optimal control for unknown discrete-time nonlinear systems using parallel control](https://ieeexplore.ieee.org/abstract/document/9770467). *IEEE Transactions on Cybernetics*. 2023.
 4. **J. Lu\***, L. Han, Q. Wei, X. Wang, X. Dai, F.-Y. Wang. [Event-triggered deep reinforcement learning using parallel control: A case study in autonomous driving](https://ieeexplore.ieee.org/document/10081497). *IEEE Transactions on Intelligent Vehicles*. 2023.
 5. **J. Lu**, X. Wang, X. Cheng, J. Yang, O. Kwan, X. Wang\*. [Parallel factories for smart industrial operations: From big AI models to field foundational models and scenarios engineering](https://ieeexplore.ieee.org/abstract/document/9970438). *IEEE/CAA Journal of Automatica Sinica*. 2022.
