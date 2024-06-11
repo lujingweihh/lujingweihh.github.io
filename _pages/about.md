@@ -21,7 +21,7 @@ Notably, I serve as an Associate Editor of the [IEEE Transactions on Intelligent
 At present, I am dedicated to open-sourcing nonlinear optimal control algorithms, especially ADP and reinforcement learning (ADPRL), and further establishing a tool library of nonlinear optimal control. Please refer to my Repo: [ADPRL for nonlinear optimal control](https://github.com/lujingweihh/Adaptive-dynamic-programming-algorithms).
 You are welcome to contact me if you are interested in this work.
 
-`Please feel free to contact me at: lujingweihh@gmail.com/jingwei_lu@ieee.org`
+`Please feel free to contact me at: lujingweihh@gmail.com/jingweilu@ieee.org`
 
 Updates
 ======
