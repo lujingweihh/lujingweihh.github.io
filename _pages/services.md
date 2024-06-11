@@ -21,4 +21,4 @@ I served as an Associate/Guest Editor for
 - [IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)
 - [IEEE Journal of Radio Frequency Identification](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433271)
 
-Please feel free to contact me at: lujingweihh@gmail.com/jingwei_lu@ieee.org for academic services requests.
+Please feel free to contact me at: lujingweihh@gmail.com/jingweilu@ieee.org for academic services requests.
