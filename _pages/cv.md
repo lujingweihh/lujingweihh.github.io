@@ -22,7 +22,3 @@ Education
 * M.S., Control Science and Engineering, [Beihang University](https://ev.buaa.edu.cn/), Advisors: Zhen Zhang and [Prof. Kemin Zhou](https://scholar.google.com/citations?hl=zh-CN&user=AatvTeoAAAAJ), 2017
 * B.S., Automation, [University of Science and Technology Liaoning](https://www.ustl.edu.cn/), 2014
 
----
-Awards
-======
----
