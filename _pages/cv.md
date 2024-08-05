@@ -23,10 +23,5 @@ Education
 * B.S., Automation, [University of Science and Technology Liaoning](https://www.ustl.edu.cn/), 2014
 
 
-Awards
-======
-* 知网学术精要高PCSI论文、高被论文、高下载论文 (论文 "问答ChatGPT之后: 超大预训练模型的机遇和挑战"), 2023
-* 知网学术精要高PCSI论文、高被论文 (论文 "Parallel factories for smart industrial operations: From big AI models to field foundational models and scenarios engineering"), 2023
-* 中国科学院自动化研究所复杂系统管理与控制国家重点实验室李耀通重大贡献奖, 2021
-* DTPI Best Student Paper Award (Paper "Backstepping-based parallel control for cascaded nonlinear systems"), 2021
-* Beihang University Outstanding Master's Thesis (北京航空航天大学校级优秀硕士论文) (Top 3%), 2017
+% Awards
+% ======
