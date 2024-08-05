@@ -18,7 +18,7 @@ Currently, I'm highly interested in pre-trained-models-powered artificial intell
 I'm actively involved in academic services. I have been serving as a reviewer for various intenational journals and conferences. I was a Guest Editor of the [IEEE Journal of Radio Frequency Identification](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433271).
 
 At present, I am dedicated to open-sourcing nonlinear optimal control algorithms, especially ADP and reinforcement learning (ADPRL), and further establishing a tool library of nonlinear optimal control. Please refer to my Repo: [ADPRL for nonlinear optimal control](https://github.com/lujingweihh/Adaptive-dynamic-programming-algorithms).
-You are welcome to contact me if you are interested in this work.
+Please feel free to contact me if you are interested in this work.
 
 `Please feel free to contact me at: lujingweihh@gmail.com/jingweilu@ieee.org`
 
