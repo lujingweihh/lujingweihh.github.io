@@ -12,7 +12,7 @@ redirect_from:
 
 Work experience
 ======
-* Postdoctoral fellow & [Shuimu Tsinghua Scholar](https://www.tsinghua.edu.cn/en/info/1245/5132.htm), at [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2023 -- Present
+* Postdoctoral fellow & [Shuimu Tsinghua Scholar](https://www.tsinghua.edu.cn/en/info/1245/5132.htm) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), 2023 -- Present
 * Engineer at AVIC Manufacturing Technology Institute, 2017 -- 2019 
 
 
